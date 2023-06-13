@@ -15,8 +15,8 @@ LOCAL_USE_AAPT2 := true
 LOCAL_STATIC_ANDROID_LIBRARIES := \
     SettingsLib
 
-LOCAL_STATIC_JAVA_LIBRARIES := \
-    org.lineageos.platform.internal
+# LOCAL_STATIC_JAVA_LIBRARIES := \
+#     org.lineageos.platform.internal
 
 LOCAL_PROGUARD_FLAG_FILES := proguard.flags
 
